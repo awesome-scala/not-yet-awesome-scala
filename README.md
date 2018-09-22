@@ -8,7 +8,7 @@ The purpose of this list is twofold:
     * The definition of "specific" and "robust" for this list is yet to be determined!
 * Encourage the Scala community to approach gaps in the Scala ecosystem by providing this list as a point of collaboration!
 
-You can jump right into editing this file [here](https://github.com/awesome-scala/not-yet-awesome-scala/README.md). See the [contributing guide](CONTRIBUTING.md) for information on what you can do to help or if you have questions about this list!
+You can jump right into editing this file [here](https://github.com/awesome-scala/not-yet-awesome-scala/edit/master/README.md). See the [contributing guide](CONTRIBUTING.md) for information on what you can do to help or if you have questions about this list!
 
 # Table of contents
 
