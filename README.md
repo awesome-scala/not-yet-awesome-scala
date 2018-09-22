@@ -8,8 +8,14 @@ The purpose of this list is twofold:
     * The definition of "specific" and "robust" for this list is yet to be determined!
 * Encourage the Scala community to approach gaps in the Scala ecosystem by providing this list as a point of collaboration!
 
-You can jump right into editing this file [here](https://github.com/awesome-scala/awesome-scala/edit/master/README.md). See the [contributing guide](CONTRIBUTING.md) for information on what you can do to help or if you have questions about this list!
+You can jump right into editing this file [here](https://github.com/awesome-scala/not-yet-awesome-scala/edit/master/README.md). See the [contributing guide](CONTRIBUTING.md) for information on what you can do to help or if you have questions about this list!
 
 # Table of contents
 
-:(
+- [Miscellaneous](#miscellaneous)
+
+## Miscellaneous
+
+* Programming language detector - examples from Ruby, Python and Go are [linguist](https://github.com/github/linguist), 
+[guesslang](https://github.com/yoeo/guesslang) and [enry](https://github.com/src-d/enry).
+
